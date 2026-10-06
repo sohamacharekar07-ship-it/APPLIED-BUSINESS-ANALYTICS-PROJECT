@@ -1,0 +1,10 @@
+Alternative,Scenario,Probability,Payoff_INR
+Increase Online Advertising,Low,0.25,180000
+Increase Online Advertising,Normal,0.5,320000
+Increase Online Advertising,High,0.25,500000
+Open New Store,Low,0.25,80000
+Open New Store,Normal,0.5,280000
+Open New Store,High,0.25,600000
+Increase Discounts,Low,0.25,120000
+Increase Discounts,Normal,0.5,300000
+Increase Discounts,High,0.25,420000
